@@ -1,0 +1,7 @@
+*.suo
+*.lock
+ManWorker.Infrastructure/obj/Debug/netstandard2.0/ManWorker.Infrastructure.AssemblyInfoInputs.cache
+ManWorker.Domain/bin/
+ManWorker.Domain/obj/
+ManWorker.Infrastructure/bin/
+ManWorker.Infrastructure/obj/
